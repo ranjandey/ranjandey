@@ -1,3 +1,6 @@
+Hi there, I'm Ranjan 👋
+
+
 - 👋 Hi, I’m @ranjandey
 - 👀 I’m interested in application development with cutting edge technologies focusing on Java/Python
 - 🌱 I’m currently learning to aquire new skills
