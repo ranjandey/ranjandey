@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranjan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **stock-market-data**
+- 🔭 I’m currently working on **stock-wallet-portfolio-manager**
 - 🌱 I’m currently learning **Golang**
 - 👯 I’m looking to collaborate on **open source AI projects**
 - 👨‍💻 All of my projects are available at [https://ranjandey.github.io/my-portfolio/](https://ranjandey.github.io/my-portfolio/)
